@@ -238,3 +238,8 @@ body.nav-active{
         background-position: 0%;
     }
 }
+
+/* Top-Bar */
+.topbar{
+    display: none;
+}
