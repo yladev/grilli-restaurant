@@ -167,6 +167,9 @@ body.nav-active{
     background-color: var(--gold-crayola);
 }
 
+/* Reused Style */
+
+
 /* Preloader */
 .preload {
     position: fixed;
