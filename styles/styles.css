@@ -427,11 +427,11 @@ body.nav-active{
 }
 
 .nav-open-btn .line-2{
-    animation-delay: 150ms;
+    animation-delay: 150ms; 
 }
 
 .nav-open-btn .line-3{
-    animation-delay: 300ms;
+    animation-delay: 300ms; 
 }
 
 .navbar{
@@ -500,7 +500,7 @@ body.nav-active{
 }
 
 .navbar-link .span{
-    transition: var(--transition-1);
+    transition: var(--transition-1); 
 }
 
 .navbar-link:is(:hover, :focus-visible, .active) .span{
@@ -526,18 +526,18 @@ body.nav-active{
 }
 
 .navbar-text{
-    margin-block: 10px;
+    margin-block: 10px; 
 }
 
 .navbar .body-4{
-    color: var(--quick-silver);
+    color: var(--quick-silver); 
 }
 
 .sidebar-link{
-    transition: var(--transition-1);
+    transition: var(--transition-1); 
 }
 
-.sidebar-link:is(:hover, :focus-visible){
+.sidebar-link:is(:hover, :focus-visible){ 
     color: var(--gold-crayola);
 }
 
@@ -547,7 +547,7 @@ body.nav-active{
 }
 
 .navbar .contact-label{
-    margin-block-end: 10px;    
+    margin-block-end: 10px; 
 }
 
 .navbar::-webkit-scrollbar-thumb{
